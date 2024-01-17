@@ -1,0 +1,11 @@
+{
+  "imports": {
+    "react": "https://cdn.jsdelivr.net/npm/react@16.13.1/umd/react.production.min.js",
+    "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@16.13.1/umd/react-dom.production.min.js",
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.5.3/lib/system/single-spa.min.js",
+    "@bjs/footer": "http://localhost:8080/bjs-footer.js",
+    "@bjs/footer/": "http://localhost:8080/",
+    "@bjs/root-config": "http://localhost:9000/bjs-root-config.js",
+    "@bjs/root-config/": "http://localhost:9000/"
+  }
+}
